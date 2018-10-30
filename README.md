@@ -69,6 +69,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+# Acknowledgements
+This work was supported by the Japan Society for the Promotion of Science (JSPS KAKENHI Grant Numbers [JP17J09220](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17J09220/), [JP18K11184](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K11184/)).
+
+
 # Authors
   * [Kazuhiro HISHINUMA](https://arnip.org)
   * [Hideaki IIDUKA](https://iiduka.net)
